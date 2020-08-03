@@ -21,12 +21,12 @@
   display: inline-block;
   width:500px;
   height: 40px;
+  font-size:20px;
+  font-weight: lighter;
+  color: #5d5b6a;
  }
 
 .propertyinfo h1{
   margin: -10px 0px 0px 0px;
 }
 
-.property {
-
-}
